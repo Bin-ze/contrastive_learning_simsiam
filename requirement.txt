@@ -1,0 +1,4 @@
+drpc -i https://pypi.deepwisdomai.com/root/stable
+xmltodict
+netifaces
+imageio
